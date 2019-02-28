@@ -1,6 +1,8 @@
 # A Dark Room
 
-Please turn the volume up before playing it.
+<img width="1279" alt="screen shot 2019-02-28 at 10 27 14 am" src="https://user-images.githubusercontent.com/43006719/53577338-78f9df80-3b43-11e9-8235-f4bd0d07b82d.png">
+
+*Please turn the volume up before playing it.*
 
 https://saetbyeolkwon.github.io/A-Dark-Room/
 
